@@ -10,3 +10,5 @@ ped eped 2017, dictionary with Java. (data structures)
 
 2. Open the terminal in the root project and run:
 <code>java -jar eped2020.jar DiccionarioEsp.txt BusquedasEstudiantes.txt</code>
+
+You must have installed java and javac
